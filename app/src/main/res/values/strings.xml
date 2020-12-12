@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ejercicios</string>
+    <string name="number">Ingrese el código</string>
+    <string name="descripcion">Descripción del producto</string>
+    <string name="Precio">Ingrese el precio del producto</string>
+    <string name="Registro">REGISTRAR</string>
+    <string name="Search">BUSCAR</string>
+    <string name="Modificar">MODIFICAR</string>
+    <string name="rDelete">ELIMINAR</string>
+</resources>
